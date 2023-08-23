@@ -31,7 +31,7 @@
   </a>
 </p>
 
-- [**Training & Model Comparison.ipynb**](./1.%20Training%20%26%20Model%20Comparison.ipynb): This Jupyter notebook encompasses the training of machine learning models and a meticulous comparison of their performance.
+- [**Training & Model Comparison.ipynb**](./1.%20Training%20%26%20Model%20Comparison.ipynb): This Jupyter notebook encompasses the training of machine learning models and a comparison of their performance.
 
 - [**Validation on Publicly Available Datasets.ipynb**](./2.%20Validation%20on%20Publicly%20Available%20Dataset.ipynb): Explore this notebook to witness the effectiveness of the models when validated against publicly available datasets.
 
@@ -49,11 +49,11 @@
   </a>
 </p>
 
-This section comprises in-depth analysis and optimization techniques applied to machine learning challenges.
+This section comprises some of the analysis and optimizations performed.
 
-- [**Transparent Pixel Analysis.ipynb**](./Analysis%20and%20Optimizations/1.%20Transparent%20Pixel%20Analysis.ipynb): A detailed exploration into the analysis of transparent pixels in images, providing valuable insights into advanced image processing.
+- [**Transparent Pixel Analysis.ipynb**](./Analysis%20and%20Optimizations/1.%20Transparent%20Pixel%20Analysis.ipynb): An exploration into the analysis of transparent pixels in images, providing valuable insights into furthering image processing.
 
-- [**Auto Cropping Region of Interest.ipynb**](./Analysis%20and%20Optimizations/2.%20Auto%20Cropping%20Region%20of%20Interest.ipynb): Demonstrates an automated method for cropping regions of interest in images using cutting-edge machine learning techniques.
+- [**Auto Cropping Region of Interest.ipynb**](./Analysis%20and%20Optimizations/2.%20Auto%20Cropping%20Region%20of%20Interest.ipynb): Demonstrates an automated method for cropping regions of interest in images.
 
 - [**Time Complexity Analysis.ipynb**](./Analysis%20and%20Optimizations/3.%20Time%20Complexity%20Analysis.ipynb): An analysis of the time complexity of implemented algorithms, a critical aspect of optimization in machine learning.
 
