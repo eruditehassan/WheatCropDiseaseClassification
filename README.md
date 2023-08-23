@@ -23,39 +23,39 @@
 ## 📂 Project Overview
 
 <p align="center">
-  <a href="./Training%20%26%20Model%20Comparison.ipynb">
+  <a href="./1.%20Training%20%26%20Model%20Comparison.ipynb">
     <img src="https://img.shields.io/badge/Jupyter%20Notebook-Training%20%26%20Model%20Comparison-ff69b4?style=for-the-badge&logo=jupyter" alt="Training & Model Comparison">
   </a>
-  <a href="./Validation%20on%20Publicly%20Available%20Datasets.ipynb">
+  <a href="./2.%20Validation%20on%20Publicly%20Available%20Dataset.ipynb">
     <img src="https://img.shields.io/badge/Jupyter%20Notebook-Validation%20on%20Datasets-ff69b4?style=for-the-badge&logo=jupyter" alt="Validation on Datasets">
   </a>
 </p>
 
-- [**Training & Model Comparison.ipynb**](./Training%20%26%20Model%20Comparison.ipynb): This Jupyter notebook encompasses the training of machine learning models and a meticulous comparison of their performance.
+- [**Training & Model Comparison.ipynb**](./1.%20Training%20%26%20Model%20Comparison.ipynb): This Jupyter notebook encompasses the training of machine learning models and a meticulous comparison of their performance.
 
-- [**Validation on Publicly Available Datasets.ipynb**](./Validation%20on%20Publicly%20Available%20Datasets.ipynb): Explore this notebook to witness the effectiveness of the models when validated against publicly available datasets.
+- [**Validation on Publicly Available Datasets.ipynb**](./2.%20Validation%20on%20Publicly%20Available%20Dataset.ipynb): Explore this notebook to witness the effectiveness of the models when validated against publicly available datasets.
 
 ### Analysis and Optimizations
 
 <p align="center">
-  <a href="./Analysis%20and%20Optimizations/Transparent%20Pixel%20Analysis.ipynb">
+  <a href="./Analysis%20and%20Optimizations/1.%20Transparent%20Pixel%20Analysis.ipynb">
     <img src="https://img.shields.io/badge/Jupyter%20Notebook-Transparent%20Pixel%20Analysis-ff69b4?style=for-the-badge&logo=jupyter" alt="Transparent Pixel Analysis">
   </a>
-  <a href="./Analysis%20and%20Optimizations/Auto%20Cropping%20Region%20of%20Interest.ipynb">
+  <a href="./Analysis%20and%20Optimizations/2.%20Auto%20Cropping%20Region%20of%20Interest.ipynb">
     <img src="https://img.shields.io/badge/Jupyter%20Notebook-Auto%20Cropping%20Region%20of%20Interest-ff69b4?style=for-the-badge&logo=jupyter" alt="Auto Cropping Region of Interest">
   </a>
-  <a href="./Analysis%20and%20Optimizations/Time%20Complexity%20Analysis.ipynb">
+  <a href="./Analysis%20and%20Optimizations/3.%20Time%20Complexity%20Analysis.ipynb">
     <img src="https://img.shields.io/badge/Jupyter%20Notebook-Time%20Complexity%20Analysis-ff69b4?style=for-the-badge&logo=jupyter" alt="Time Complexity Analysis">
   </a>
 </p>
 
 This section comprises in-depth analysis and optimization techniques applied to machine learning challenges.
 
-- [**Transparent Pixel Analysis.ipynb**](./Analysis%20and%20Optimizations/Transparent%20Pixel%20Analysis.ipynb): A detailed exploration into the analysis of transparent pixels in images, providing valuable insights into advanced image processing.
+- [**Transparent Pixel Analysis.ipynb**](./Analysis%20and%20Optimizations/1.%20Transparent%20Pixel%20Analysis.ipynb): A detailed exploration into the analysis of transparent pixels in images, providing valuable insights into advanced image processing.
 
-- [**Auto Cropping Region of Interest.ipynb**](./Analysis%20and%20Optimizations/Auto%20Cropping%20Region%20of%20Interest.ipynb): Demonstrates an automated method for cropping regions of interest in images using cutting-edge machine learning techniques.
+- [**Auto Cropping Region of Interest.ipynb**](./Analysis%20and%20Optimizations/2.%20Auto%20Cropping%20Region%20of%20Interest.ipynb): Demonstrates an automated method for cropping regions of interest in images using cutting-edge machine learning techniques.
 
-- [**Time Complexity Analysis.ipynb**](./Analysis%20and%20Optimizations/Time%20Complexity%20Analysis.ipynb): An analysis of the time complexity of implemented algorithms, a critical aspect of optimization in machine learning.
+- [**Time Complexity Analysis.ipynb**](./Analysis%20and%20Optimizations/3.%20Time%20Complexity%20Analysis.ipynb): An analysis of the time complexity of implemented algorithms, a critical aspect of optimization in machine learning.
 
 ## 📄 Published Paper
 
